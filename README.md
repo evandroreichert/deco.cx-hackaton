@@ -1,1 +1,0 @@
-# deco.cx-hackaton
