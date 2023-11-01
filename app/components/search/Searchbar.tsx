@@ -53,7 +53,7 @@ export interface Props {
 }
 
 function Searchbar({
-  placeholder = "What are you looking for?",
+  placeholder = "O que você está procurando?",
   action = "/s",
   name = "q",
   loader,
